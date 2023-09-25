@@ -1,0 +1,5 @@
+venv
+flask_session
+.vscode
+.idea
+__pycache__
